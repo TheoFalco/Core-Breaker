@@ -1,0 +1,5 @@
+G G G G G G G G G G
+N N F N N N N F N N
+G G G G G G G G G G
+N N N N F N F N N N
+G G G G G G G G G G

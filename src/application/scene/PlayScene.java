@@ -89,7 +89,7 @@ public class PlayScene {
         this.bricks    = new ArrayList<>();
 
         balls.add(new Ball(screenW / 2.0, screenH - 60, ballSpeed));
-        bricks = LevelLoader.load(level);
+        bricks = LevelLoader.load(15);
     }
 
     // ─────────────────────────────────────────────────────────────────────────
